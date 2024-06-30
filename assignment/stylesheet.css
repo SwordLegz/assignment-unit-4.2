@@ -1,0 +1,47 @@
+.header {
+    height: 7em;
+    text-align: center;
+    border: 5px solid #0c5d55;
+    background-color: #693996;
+    /* border-bottom: 5px solid #0c5d55; */
+    /* border-radius: 10px; */
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: #ffffffc8;
+}
+
+.info {
+    background-color: #a784c8;
+    border: 5px solid #0c5d55;
+    color: #ffffffc8;
+    height: 80vh;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.infoColor {
+    background-color: #0c5d55;
+}
+
+.image {
+    /* border: 3px solid #0c5d55; */
+    margin-right: -11px;
+    margin-left: 1px;
+    margin-bottom: 7px;
+    margin-top: -85px;
+    position: absolute;
+    top: 300px;
+    left: 50px;
+}
+.carType {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: #ffffffc8;
+    /* padding-top: -1000px; */
+    /* line-height: -100px; */
+    /* position: fixed; */
+    margin-top: -100px;
+}
+
+.carTypeColor {
+    background-color: #0c5d55;
+}
