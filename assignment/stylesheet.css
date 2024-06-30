@@ -3,8 +3,6 @@
     text-align: center;
     border: 5px solid #0c5d55;
     background-color: #693996;
-    /* border-bottom: 5px solid #0c5d55; */
-    /* border-radius: 10px; */
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
     color: #ffffffc8;
@@ -23,7 +21,6 @@
 }
 
 .image {
-    /* border: 3px solid #0c5d55; */
     margin-right: -11px;
     margin-left: 1px;
     margin-bottom: 7px;
@@ -36,9 +33,6 @@
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     color: #ffffffc8;
-    /* padding-top: -1000px; */
-    /* line-height: -100px; */
-    /* position: fixed; */
     margin-top: -100px;
 }
 
